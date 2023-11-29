@@ -9,7 +9,8 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-isbn13,ISBN 13
+isbn10,ISBN 10,
+isbn13,ISBN 13,
 type,Type,
 format,Format,
 rights,Rights,
