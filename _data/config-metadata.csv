@@ -12,6 +12,7 @@ identifier,Source Identifier,,
 isbn10,ISBN 10,
 isbn13,ISBN 13,
 type,Type,
+page_count,Page Count,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
